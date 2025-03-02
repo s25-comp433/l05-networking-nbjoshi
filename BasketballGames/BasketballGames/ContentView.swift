@@ -46,7 +46,7 @@ struct ContentView: View {
             }
         }
         .task {
-              await loadData()
+            await loadData()
         }
     }
     
